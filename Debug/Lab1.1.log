@@ -1,0 +1,5 @@
+﻿  FloatRange.cpp
+  Source.cpp
+C:\Users\Oleh Kulyk\source\repos\Lab1.1\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Lab1.1.vcxproj -> C:\Users\Oleh Kulyk\source\repos\Lab1.1\Debug\Lab1.1.exe
